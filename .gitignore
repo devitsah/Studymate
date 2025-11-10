@@ -1,0 +1,33 @@
+# Flutter/Dart/Pub related
+.dart_tool/
+.packages
+build/
+.pub-cache/
+.flutter-plugins
+.flutter-plugins-dependencies
+
+# IntelliJ/VSCode
+.idea/
+.vscode/
+
+# iOS/Xcode
+ios/Flutter/Flutter.podspec
+ios/.symlinks/
+ios/Pods/
+ios/Runner.xcworkspace/
+
+# Android
+.android/
+gradle-wrapper.jar
+
+# macOS
+macos/Flutter/ephemeral/
+
+# Web
+web/generated_plugin_registrant.dart
+
+# Others
+*.log
+*.tmp
+*.swp
+.DS_Store
